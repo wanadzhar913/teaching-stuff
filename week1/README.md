@@ -20,6 +20,8 @@ Aim to cover videos 2 - 7 in the series.
 
 # Problem Set
 
+Feel free to ask ChatGPT. But make sure you understand things thoroughly!
+
 ### Problem Set 1: Divisors
 
 Create a program that asks the user for a number and then prints out a list of all the divisors of that number.
@@ -36,12 +38,13 @@ Extras:
 - Write this in one line of Python.
 - Ask the user for a number and return a list that contains only elements from the original list a that are smaller than that number given by the user.
 
-### Problem Set 3: List Remove Duplicates
+### Problem Set 3: List Remove Duplicates (Functions & Sets)
 
-Write a program (function!) that takes a list and returns a new list that contains all the elements of the first list minus all the duplicates.
+Write a program that takes a list and returns a new list that contains all the elements of the first list minus all the duplicates.
 
 Extras:
-- Write two different functions to do this - one using a loop and constructing a list, and another using sets.
+- This will require you to learn [lesson 8](https://www.youtube.com/watch?v=9Os0o3wzS_I&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&index=8).
+- To solve this, you can write two different functions to do this - one using a loop and constructing a list, and another using sets.
 
 # List of Shortcuts
 
