@@ -54,3 +54,12 @@ Extras:
 > `CTRL + Z`: Undo  
 > `CTRL + Y`: Reverses Undo (`CTRL + Z`)   
 > `CTRL + D`: In VSCode, this selects the word at the cursor, or the next occurrence of the current selection.
+> `CTRL + /`: Comments highlighted code
+
+In the terminal
+Up button
+Tab button
+
+Notes
+ValueError: invalid literal for int() with base 10: '2.66'
+https://stackoverflow.com/questions/1841565/valueerror-invalid-literal-for-int-with-base-10 
