@@ -13,10 +13,18 @@ We went over GitHub Codespaces very briefly the other day. If you'd like more re
 1. Install VS Code from https://code.visualstudio.com/
 2. Install Python from https://www.python.org/downloads/
 
-# Assignments this week
+# Tutorials This Week
 
 Please watch/code along with this [tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) from [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g).
-Aim to cover videos 2 - 7 in the series.
+Aim to cover videos 2 - 8 in the series. These will you cover basic Python.
+
+- [Strings](https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&index=2&t=447s&pp=iAQB0gcJCcwJAYcqIYzv)
+- [Integers & Floats](https://www.youtube.com/watch?v=khKv-8q7YmY&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&index=3&pp=iAQB)
+- [Lists, Tuples & Sets](https://www.youtube.com/watch?v=W8KRzm-HUcc&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&index=4&pp=iAQB)
+- [Dictionaries](https://www.youtube.com/watch?v=daefaLgNkw0&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&index=5&pp=iAQB0gcJCcwJAYcqIYzv)
+- [Conditionals & Booleans](https://www.youtube.com/watch?v=DZwmZ8Usvnk&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&index=6&pp=iAQB)
+- [Loops & Iterations](https://www.youtube.com/watch?v=6iF8Xb7Z3wQ&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&index=7&pp=iAQB)
+- [Functions](https://www.youtube.com/watch?v=9Os0o3wzS_I&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&index=8&pp=iAQB)
 
 # Problem Set
 
@@ -48,6 +56,8 @@ Extras:
 
 # List of Shortcuts
 
+### On your keyboard
+
 > `CTRL + X`: Cut    
 > `CTRL + C`: Copy  
 > `CTRL + V`: Paste  
@@ -56,10 +66,16 @@ Extras:
 > `CTRL + D`: In VSCode, this selects the word at the cursor, or the next occurrence of the current selection.
 > `CTRL + /`: Comments highlighted code
 
-In the terminal
-Up button
-Tab button
+### In the terminal
+> ⬆️: The up button helps you scroll through your previous commands in the terminal
+> `TAB`: This helps you do auto complete for file paths
 
-Notes
-ValueError: invalid literal for int() with base 10: '2.66'
-https://stackoverflow.com/questions/1841565/valueerror-invalid-literal-for-int-with-base-10 
+# If you ever find errors
+Copy and paste the error into Google. If you recall in our tutorial, we got this error:
+
+> ValueError: invalid literal for int() with base 10
+
+The first thing we got by pasting this into Google was this StackOverFlow link:
+https://stackoverflow.com/questions/1841565/valueerror-invalid-literal-for-int-with-base-10
+
+Someone else has probably experienced this error before you so your best friends are ChatGPT & [StackOverFlow](https://en.wikipedia.org/wiki/Stack_Overflow#:~:text=Stack%20Overflow%20serves%20as%20a,fashion%20similar%20to%20a%20wiki.) Good luck!
