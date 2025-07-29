@@ -59,7 +59,8 @@ Extras:
 ### On your keyboard
 
 > `CTRL + X`: Cut    
-> `CTRL + C`: Copy  
+> `CTRL + C`: Copy
+> `CTRL + C`: In the terminal, it's used to do a Keyboard Interrupt (useful to get out of While loops!)  
 > `CTRL + V`: Paste  
 > `CTRL + Z`: Undo  
 > `CTRL + Y`: Reverses Undo (`CTRL + Z`)   
