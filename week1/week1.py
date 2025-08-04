@@ -1,4 +1,6 @@
-##### Integer operations in python #####
+# Recap of types in Python
+for i in [1, 2.0, 'hello', None, True]:
+    print(f'{i} is a {type(i)}')
 
 # Addition
 x = 1 + 1
@@ -91,3 +93,4 @@ y = 'HELLO'
 print(x.upper()) # returns: 'AMSTERDAM'
 print(y.lower()) # returns: 'hello'
 print(y.title()) # returns: 'Hello'
+
