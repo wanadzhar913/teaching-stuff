@@ -38,7 +38,7 @@ print(response.json())
 - Yes, yes. Please use ChatGPT to augment your learning but make sure you understand every component. Add 'explain step-by-step' into your prompts!
 
 # 2.0 Doing Data Analysis
-We're going to briefly introduce the tools Data Scientists use on the job. We were recently introduced to Jupyter Notebooks, which are tools Data Scientists use to analyze data. For simplicity, please use [Google Colab](https://colab.research.google.com/) (not VSCode). A brief tutorial for the tool can be found [here](https://www.youtube.com/watch?v=8KeJZBZGtYo).
+We're going to briefly introduce the tools Data Scientists use on the job. We were recently introduced to Jupyter Notebooks, which are tools Data Scientists use to analyze data. For simplicity, please use [Google Colab](https://colab.research.google.com/) (if you can't run Jupyter Notebooks on VSCode). A brief tutorial for the tool can be found [here](https://www.youtube.com/watch?v=8KeJZBZGtYo).
 
 Our goal will be to use the below datasets (which **you need to download and upload to Google Colab**) to follow along with tutorials:
 - Tutorial 1 - A Gentle Introduction to Pandas Data Analysis: https://www.youtube.com/watch?v=_Eb0utIRdkw
